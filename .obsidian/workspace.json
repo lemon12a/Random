@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 258.5
   },
   "right": {
     "id": "2d713573a65c46f8",
@@ -180,13 +180,23 @@
               "icon": "lucide-list",
               "title": "Đề cương của Chào mừng"
             }
+          },
+          {
+            "id": "8303b18bc676f7de",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
