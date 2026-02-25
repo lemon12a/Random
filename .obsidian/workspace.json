@@ -196,11 +196,13 @@
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
       "command-palette:Mở khay lệnh": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "744ecd129a575002",
   "lastOpenFiles": [
+    "README.md",
     "Chào mừng.md"
   ]
 }
